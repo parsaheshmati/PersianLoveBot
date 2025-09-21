@@ -41,28 +41,30 @@ python-dotenv: Keeps API keys safe and secure. 🔒
 
 
 
-Installation 🚀
+
+<h2> Installation 🚀 </h2>
+
 Ready to fall in love with your bot? Follow these steps:  
 
-Clone the repository:  
+<h3>Clone the repository:  </h3>
 ```bash
 git clone https://github.com/yourusername/RomanticAI-Chatbot.git
 cd RomanticAI-Chatbot
 ```
 
 
-Install dependencies:  
+<h3>Install dependencies:  </h3>
 ```bash
 pip install python-telegram-bot==20.7 openai pydub python-dotenv
 ```
 
 
 
-Create a .env file with your keys:  TELEGRAM_TOKEN=your_telegram_token
-OPENROUTER_API_KEY=your_openrouter_key
+Create a .env file with your keys:  <b> TELEGRAM_TOKEN=your_telegram_token
+OPENROUTER_API_KEY=your_openrouter_key </b>
 
 
-Run the bot: 
+<h3>Run the bot: </h3>
 ```bash
 python telegram_chatbot.py
 
