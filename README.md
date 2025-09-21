@@ -47,6 +47,7 @@ python-dotenv: Keeps API keys safe and secure. 🔒
 Ready to fall in love with your bot? Follow these steps:  
 
 <h3>Clone the repository:  </h3>
+
 ```bash
 git clone https://github.com/yourusername/RomanticAI-Chatbot.git
 cd RomanticAI-Chatbot
@@ -54,6 +55,7 @@ cd RomanticAI-Chatbot
 
 
 <h3>Install dependencies:  </h3>
+
 ```bash
 pip install python-telegram-bot==20.7 openai pydub python-dotenv
 ```
@@ -65,6 +67,7 @@ OPENROUTER_API_KEY=your_openrouter_key </b>
 
 
 <h3>Run the bot: </h3>
+
 ```bash
 python telegram_chatbot.py
 
