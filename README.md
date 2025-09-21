@@ -36,32 +36,38 @@ JSON: Stores user data and chat history for continuity. 📁
 pydub: Prepares the bot for future audio features. 🎵
 
 
-dd    
-
-
 python-dotenv: Keeps API keys safe and secure. 🔒
 </h4>
 
 
-```bash
-pip install -r requirements.txt
-```
 
 Installation 🚀
 Ready to fall in love with your bot? Follow these steps:  
 
-Clone the repository:  git clone https://github.com/yourusername/RomanticAI-Chatbot.git
+Clone the repository:  
+```bash
+git clone https://github.com/yourusername/RomanticAI-Chatbot.git
 cd RomanticAI-Chatbot
+```
 
 
-Install dependencies:  pip install python-telegram-bot==20.7 openai pydub python-dotenv
+Install dependencies:  
+```bash
+pip install python-telegram-bot==20.7 openai pydub python-dotenv
+```
+
 
 
 Create a .env file with your keys:  TELEGRAM_TOKEN=your_telegram_token
 OPENROUTER_API_KEY=your_openrouter_key
 
 
-Run the bot:  python telegram_chatbot.py
+Run the bot: 
+```bash
+python telegram_chatbot.py
+
+```
+
 
 
 
