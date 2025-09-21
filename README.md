@@ -69,8 +69,7 @@ OPENROUTER_API_KEY=your_openrouter_key </b>
 <h3>Run the bot: </h3>
 
 ```bash
-python telegram_chatbot.py
-
+python PersianLoveBot.py
 ```
 
 
