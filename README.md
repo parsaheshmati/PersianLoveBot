@@ -43,7 +43,9 @@ python-dotenv: Keeps API keys safe and secure. 🔒
 </h4>
 
 
-
+```bash
+pip install -r requirements.txt
+```
 
 Installation 🚀
 Ready to fall in love with your bot? Follow these steps:  
